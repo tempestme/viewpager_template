@@ -1,4 +1,4 @@
-package com.secondtwin.pager_template;
+package com.secondapp.gamestories;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

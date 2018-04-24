@@ -1,4 +1,4 @@
-package com.secondtwin.pager_template;
+package com.secondapp.gamestories;
 
 import org.junit.Test;
 

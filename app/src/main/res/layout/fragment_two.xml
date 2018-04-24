@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="0.9">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="споры"
+            style="@style/Base.TextAppearance.AppCompat.Body2"
+            android:textSize="50sp"
+            android:padding="4dp"
+            android:textStyle="italic"
+            android:fontFamily="casual"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:layout_centerHorizontal="true"
+            android:ellipsize="end"
+            android:maxLines="10"
+            android:shadowColor="#FFFF"
+            android:shadowRadius="10"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Никто не будет отрицать, что люди всегда любили поспорить и доказать свою правоту. Это заложено на генном уровне. Но одна страна преуспела в этой любви намного больше, чем все остальные. Речь идет, как многие уже, наверное, успели догадаться, о Великобритании и об ее ставках на лошадиные бега.
+• Эта традиция укоренялась в сознании англичан в течение многих веков. История приводит нас в 1766 год, когда бывший конюх одного из герцегов по имени Ричард Таттесол решил организовать целый аукцион, на котором были представлены породистые лошади."
+            style="@style/Base.TextAppearance.AppCompat.Body2"
+            android:textSize="15sp"
+            android:padding="4dp"
+            android:textStyle="italic"
+            android:fontFamily="casual"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:layout_centerHorizontal="true"
+            android:ellipsize="end"
+            android:shadowColor="#FFFF"
+            android:shadowRadius="10"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:text="《 Нет веры тверже, чем вера в игральные автоматы.》"
+            android:textSize="20sp"
+            android:padding="4dp"
+            android:textStyle="bold"
+            android:fontFamily="casual"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:layout_centerHorizontal="true"
+            android:ellipsize="end"
+            android:shadowColor="#FFFF"
+            android:shadowRadius="10"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Самое удивительное, что этот аукцион смог просуществовать до наших дней, сейчас он также является очень популярным, а ведь прошло уже более 240 лет. Первые помещния аукциона располагались на пересечении двух улиц: Пикадили и Парк – Лейн, тогда это была окраина города, сейчас это практически самое сердце Лондона."
+            style="@style/Base.TextAppearance.AppCompat.Body2"
+            android:textSize="15sp"
+            android:padding="4dp"
+            android:textStyle="italic"
+            android:fontFamily="casual"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:layout_centerHorizontal="true"
+            android:ellipsize="end"
+            android:shadowColor="#FFFF"
+            android:shadowRadius="10"/>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

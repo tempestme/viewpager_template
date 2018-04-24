@@ -1,4 +1,4 @@
-package com.secondtwin.pager_template;
+package com.secondapp.gamestories.Controller;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Created by pavel on 28.03.18.
  */
 
-public class SectionsPageAdapter extends FragmentPagerAdapter{
+public class PageAdapter extends FragmentPagerAdapter{
     ArrayList<Fragment> fragmentList = new ArrayList<>();
     ArrayList<String> titleList = new ArrayList<>();
 
@@ -20,7 +20,7 @@ public class SectionsPageAdapter extends FragmentPagerAdapter{
         titleList.add(tabName);
     }
 
-    public SectionsPageAdapter(FragmentManager fm) {
+    public PageAdapter(FragmentManager fm) {
         super(fm);
     }
 
